@@ -13,7 +13,7 @@ object FakeTeamRepository {
                 description = "Especialista en desarrollo móvil con Kotlin y Jetpack Compose."
             ),
             TeamMember(
-                name = "Jonathan Tubac",
+                name = "Vernel Hernández",
                 description = "Intereasado en diseño de interfaces y experiencia de usuario."
             )
         )
