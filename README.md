@@ -51,8 +51,8 @@ app/
 ## Miembros del Equipo
 
 - **Ángel Sanabria**: Estudiante de Ingeniería en Ciencias de la Computación, apasionado por la IA y el desarrollo de software
-- **Juan Montenegro**: Especialista en desarrollo móvil con Kotlin y Jetpack Compose
-- **Vernel Hernández**: Interesado en diseño de interfaces y experiencia de usuario
+- **Juan Montenegro**: Estudiante de Ingeniería en Ciencias de la Computación, apasionado en desarrollo móvil con Kotlin y Jetpack Compose
+- **Vernel Hernández**: Estudiante de Ingeniería en Ciencias de la Computación, apasionado en diseño de interfaces y experiencia de usuario
 
 ## Instalación y Configuración
 
@@ -157,4 +157,3 @@ Este proyecto fue desarrollado con fines educativos como parte del curso de Inge
 
 ---
 
-**Desarrollado con ❤️ por el equipo de TeamApp**
